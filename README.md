@@ -3,11 +3,11 @@ Individual paper for Computer Science for Business analytics by Kasper de Koning
 
 The structure of the code is as follows:
 
-**1)** Extracting, cleaning and standardizing the key attributes in the data
-**2)** Creating functions that perform minhashing to create a signature matrix
-**3)** Perform LSH to find candidate pairs
-**4)** Find potential duplicates through clustering
-**5)** Perform bootstrapping and calculate the performance measures
-**6)** Visualise the results via plots
+**1)** Extracting, cleaning and standardizing the key attributes in the data <br>
+**2)** Creating functions that perform minhashing to create a signature matrix <br>
+**3)** Perform LSH to find candidate pairs <br>
+**4)** Find potential duplicates through clustering <br>
+**5)** Perform bootstrapping and calculate the performance measures <br>
+**6)** Visualise the results via plots <br>
 
 The code can be run as is. 
