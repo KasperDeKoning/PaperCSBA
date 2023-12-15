@@ -10,4 +10,4 @@ The structure of the code is as follows:
 **5)** Perform bootstrapping and calculate the performance measures <br>
 **6)** Visualise the results via plots <br>
 
-The code can be run as is. 
+Installing the required packages is enough to run the code.
