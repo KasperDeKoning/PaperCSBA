@@ -1,5 +1,5 @@
 # PaperCSBA
-Individual paper for Computer Science for Business analytics by Kasper de Koning (704733). This project is about finding duplicates in a big dataset as computationally efficient as possible. The respective duplicate detection is conducted on a tv model dataset that includes tv descriptions of multiple online retailers.
+Individual paper for Computer Science for Business analytics by Kasper de Koning (704733). This project is about finding duplicates in a big dataset as computationally efficient as possible. The respective duplicate detection is conducted on a tv model dataset that includes tv descriptions of multiple online retailers. For the coding I used python, the entire code can be found in the file 'code.py'. 
 
 The structure of the code is as follows:
 
